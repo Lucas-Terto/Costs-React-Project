@@ -1,17 +1,6 @@
 {
   "projects": [
     {
-      "name": "projeto teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
       "name": "projeto teste 01",
       "budget": "5000",
       "category": {
@@ -131,17 +120,6 @@
       "cost": 0,
       "services": [],
       "id": 12
-    },
-    {
-      "name": "plano",
-      "budget": "12000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 13
     },
     {
       "name": "Novo projeto",
