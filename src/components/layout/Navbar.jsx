@@ -27,7 +27,7 @@ const Navbar = () => {
                         <Link to="/Company">Empresa</Link>
                     </li>   
                     <li className={styles.item}>
-                        <Link to="/newproject">New Project</Link>
+                        <Link to="/newproject">Criar projeto</Link>
                     </li> 
                 </ul>
             </Container>
