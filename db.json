@@ -100,11 +100,11 @@
       "id": 10
     },
     {
-      "name": "Teste",
-      "budget": "1000",
+      "name": "Atualização de projeto 02",
+      "budget": "1200",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
@@ -122,11 +122,11 @@
       "id": 12
     },
     {
-      "name": "Novo projeto",
-      "budget": "10000",
+      "name": "Atualização de projeto",
+      "budget": "1100",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": [],
