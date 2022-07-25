@@ -106,8 +106,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 200,
+      "services": [
+        {
+          "name": "serviço 01",
+          "cost": "100",
+          "description": "testando a adição de serviço",
+          "id": "2ad33b1a-402c-40de-b938-f6169dfc7050"
+        },
+        {
+          "name": "serviço 01",
+          "cost": "100",
+          "description": "testando a adição de serviço",
+          "id": "2ad33b1a-402c-40de-b938-f6169dfc7050"
+        }
+      ],
       "id": 11
     },
     {
