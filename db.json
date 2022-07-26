@@ -112,7 +112,7 @@
           "name": "serviço 01",
           "cost": "100",
           "description": "testando a adição de serviço",
-          "id": "2ad33b1a-402c-40de-b938-f6169dfc7050"
+          "id": "2ad33b1a-402c-40de-b938-f6169dfc6050"
         },
         {
           "name": "serviço 02",
@@ -141,25 +141,19 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 2800,
+      "cost": 2700,
       "services": [
         {
           "name": "Sistema React",
           "cost": "1350",
           "description": "Desenvolvimento de sistema",
-          "id": "800c4037-fa00-4a21-8063-58b46e362451"
+          "id": "800c4037-fa00-4a21-8063-58b46e262451"
         },
         {
           "name": "Sistema React",
           "cost": "1350",
           "description": "Desenvolvimento de sistema",
           "id": "800c4037-fa00-4a21-8063-58b46e362451"
-        },
-        {
-          "name": "Teste implementativo 01",
-          "cost": "100",
-          "description": "testando pra ver se a pagina responde como esperado",
-          "id": "debd0a69-32fe-4818-ba94-3238488edb17"
         }
       ],
       "id": 14
