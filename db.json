@@ -100,7 +100,7 @@
       "id": 10
     },
     {
-      "name": "Atualização de projeto 02",
+      "name": "Adição de serviços",
       "budget": "1200",
       "category": {
         "id": "3",
@@ -115,7 +115,7 @@
           "id": "2ad33b1a-402c-40de-b938-f6169dfc7050"
         },
         {
-          "name": "serviço 01",
+          "name": "serviço 02",
           "cost": "100",
           "description": "testando a adição de serviço",
           "id": "2ad33b1a-402c-40de-b938-f6169dfc7050"
@@ -135,14 +135,33 @@
       "id": 12
     },
     {
-      "name": "Atualização de projeto",
+      "name": "Adição de serviço 02",
       "budget": "11000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 2800,
+      "services": [
+        {
+          "name": "Sistema React",
+          "cost": "1350",
+          "description": "Desenvolvimento de sistema",
+          "id": "800c4037-fa00-4a21-8063-58b46e362451"
+        },
+        {
+          "name": "Sistema React",
+          "cost": "1350",
+          "description": "Desenvolvimento de sistema",
+          "id": "800c4037-fa00-4a21-8063-58b46e362451"
+        },
+        {
+          "name": "Teste implementativo 01",
+          "cost": "100",
+          "description": "testando pra ver se a pagina responde como esperado",
+          "id": "debd0a69-32fe-4818-ba94-3238488edb17"
+        }
+      ],
       "id": 14
     }
   ],
