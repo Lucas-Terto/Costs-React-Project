@@ -1,4 +1,4 @@
-# Projeto Costs, desenvolviedo em React.
+# Projeto Costs, desenvolvido em React.
 
 ## Getting Started with Create React App
 
